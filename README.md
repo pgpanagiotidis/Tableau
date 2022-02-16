@@ -4,7 +4,7 @@ We will use Tableau 2021.4 to make several charts about the world and per countr
 
 Let's jump into it. The first chart is about the total world GDP evolution from 1960 to 2020.
 
-WORLD TOATL GDP
+WORLD TOTAL GDP
 ![](images/year-total.png)
 
 The second chart is about each country's GDP for the year 2020.
