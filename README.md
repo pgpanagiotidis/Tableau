@@ -15,3 +15,6 @@ Tableau also provides the functionality to create animated charts. The following
 
 The following chart is a map that indicates the magnitude of the GDP per country for the year 2020. The size of the bubbles was set to represent the magnitude of each country's GDP. 
 ![](images/2020_map_GDP_Coutry.png)
+
+The following chart is a map that indicates the magnitude of the GDP per country through the years. Tableau does not provide the functionality of animated maps, so this is a beautiful way to display the evolution of the GDP per country through the years in maps side by side.
+![](images/GDP_evolution.png)
