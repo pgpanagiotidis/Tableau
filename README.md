@@ -6,3 +6,7 @@ Let's jump into it. The first chart is about the total world GDP evolution from 
 
 WORLD TOATL GDP
 ![](images/year-total.png)
+
+The second chart is about each country's GDP for the year 2020.
+![](images/2020_GDP_Coutry.png)
+
