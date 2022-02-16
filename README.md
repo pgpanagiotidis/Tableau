@@ -10,3 +10,5 @@ WORLD TOATL GDP
 The second chart is about each country's GDP for the year 2020.
 ![](images/2020_GDP_Coutry.png)
 
+Tableau also provides the functionality to create animated charts. The following image is a screenshot from an animate bar chart that shows the evolution of the GDP per year for each country in descending order.
+![](images/animate_per_year.png)
