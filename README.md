@@ -12,3 +12,6 @@ The second chart is about each country's GDP for the year 2020.
 
 Tableau also provides the functionality to create animated charts. The following image is a screenshot from an animate bar chart that shows the evolution of the GDP per year for each country in descending order.
 ![](images/animate_per_year.png)
+
+The following chart is a map that indicates the magnitude of the GDP per country for the year 2020. The size of the bubbles was set to represent the magnitude of each country's GDP. 
+![](images/2020_map_GDP_Coutry.png)
